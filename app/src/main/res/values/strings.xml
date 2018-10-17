@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Food Diary</string>
+
+    <string name="tap_1">COMIDA</string>
+    <string name="tap_2">PERDIDO</string>
+    <string name="tap_3">COMPRAS</string>
+
+
+
+</resources>
